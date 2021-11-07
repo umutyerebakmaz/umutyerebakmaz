@@ -42,3 +42,6 @@ You can reach my Linkedin profile here, ask me your questions on the topics inte
 [My Linkedin Profile](https://www.linkedin.com/in/umut-yerebakmaz-aa8315102/)
 
 contact: umutyerebakmaz@gmail.com
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=umutyerebakmaz&count_private=true)
