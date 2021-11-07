@@ -21,7 +21,8 @@ Laravel - All the tools smart businesses need to create and manage beautiful dig
 Laravel & AngularJS - Z-Wave Smart Home Interface and Administration Application <br>
 Laravel & AngularJS - Real Estate Office Portfolio Management System <br>
 Laravel - Mersin photography association online competition and reward system <br>
-Some projects that I have completed full stack <br>
+
+### Some projects I've completed, check out these live links. Actually, there is more.<br>
 
 [IPM Geographic Inforation System](https://www.ipmgis.com.tr/) - Angular, Material Design, Apollo, GraphQL, PostgresSQL <br>
 [KITAPHUB social network for book readers](https://www.kitaphub.com) - Angular, Apollo, GraphQL
