@@ -3,10 +3,8 @@
 Angular, RXJS, Angular Material, Flex Layout, Ionic Framework, TypeScript, TypeORM, TypeGraphQL, Express, Apollo Server, GraphQL, SQL, NoSQL, MQTT, SPA, PWA, TDD, MVVC, TailwindUI, AlpineJS, Linux Server System Management, maintenance, security. I developed web applications with many e-commerce and corporate management panels using Laravel Framework.
 
 ### Experience
-Full Stack Developer, ABE Biyosidal, (1 year 6 month, continues, full-time)
-Full Stack Developer,
-
-Kitaphub, (1 year 7 month, open-source)<br>
+Full Stack Developer, ABE Biyosidal, (1 year 6 month, continues, full-time) <br>
+Full Stack Developer, Kitaphub, (1 year 7 month, open-source)<br>
 Laravel Developer, Kopazar, (3 month, contractual)<br>
 Internet of Things Engineer, Votec Electronic, (7 month, contractual)<br>
 Server Administrator, Dora Media, (10 month) Company Owner, Yeşilonline Interactive (11year, continues)<br>
@@ -15,15 +13,15 @@ Director /  Resident DJ, Hayal Kahvesi, (2 year 4 month)<br>
 Art Director, Felix Technology, (7 month)<br>
 
 ### Achievements
-Laravel - Ecommerce applications for Pharmaceutical Companies
-Angular - GIS Based ERP,  Typescript, GraphQL
-Angular -Kitaphub -The book social network I am developing inspired by goodreads.com and 1000kitap.com applications.
-ESP8266 Embedded Lua - ARM64, ESP8266, C++, Embedded Systems
-Laravel - All the tools smart businesses need to create and manage beautiful digital signage.
-Laravel & AngularJS - Z-Wave Smart Home Interface and Administration Application
-Laravel & AngularJS - Real Estate Office Portfolio Management System
-Laravel - Mersin photography association online competition and reward system
-Some projects that I have completed full stack
+Laravel - Ecommerce applications for Pharmaceutical Companies <br>
+Angular - GIS Based ERP,  Typescript, GraphQL <br>
+Angular - Kitaphub -The book social network I am developing inspired by goodreads.com and 1000kitap.com applications. <br>
+ESP8266 Embedded Lua - ARM64, ESP8266, C++, Embedded Systems <br>
+Laravel - All the tools smart businesses need to create and manage beautiful digital signage. <br>
+Laravel & AngularJS - Z-Wave Smart Home Interface and Administration Application <br>
+Laravel & AngularJS - Real Estate Office Portfolio Management System <br>
+Laravel - Mersin photography association online competition and reward system <br>
+Some projects that I have completed full stack <br>
 
 [IPM Geographic Inforation System](https://www.ipmgis.com.tr/) - Angular, Material Design, Apollo, GraphQL, PostgresSQL <br>
 [KITAPHUB social network for book readers](https://www.kitaphub.com) - Angular, Apollo, GraphQL
