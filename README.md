@@ -25,7 +25,7 @@ Laravel - Mersin photography association online competition and reward system <b
 ### Some projects I've completed, check out these live links. Actually, there is more.<br>
 
 [IPM Geographic Inforation System](https://www.ipmgis.com/) - Angular, Material Design, Apollo, GraphQL, PostgresSQL <br>
-[KITAPHUB social network for book readers](https://www.kitaphub.com) - Angular, Apollo, GraphQL
+[KITAPHUB social network for book readers](https://www.kitaphub.com) - Angular, Apollo, GraphQL <br>
 [ABe Biocidal](https://www.abebiyosidal.com.tr/) - Laravel Custom CMS, Bootsrap, MySQL <br>
 [Ento Çevre Sağlığı](https://www.entocevre.com.tr/) - Laravel Custom CMS, Bootstrap, MySQL <br>
 [Gökçek Gayrimenkul](https://www.gokcekgayrimenkul.com/) - Laravel, AngularJS, Bootstrap, MySQL Real Estate Content Management System <br>
