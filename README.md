@@ -1,3 +1,9 @@
+### Oops i did it again!
+
+I'm really sorry that I haven't been able to contribute to Open source until now in my professional life. A big shortcoming from my point of view. I hope to contribute a lot in a short time.
+
+We're getting started.
+
 ### Skills
 
 Angular, RXJS, Angular Material, Flex Layout, Ionic Framework, TypeScript, TypeORM, TypeGraphQL, Express, Apollo Server, GraphQL, SQL, NoSQL, MQTT, SPA, PWA, TDD, MVVC, TailwindUI, AlpineJS, Linux Server System Management, maintenance, security. I developed web applications with many e-commerce and corporate management panels using Laravel Framework.
