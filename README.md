@@ -4,6 +4,8 @@ I'm really sorry that I haven't been able to contribute to Open source until now
 
 We're getting started.
 
+November 2021, Would you like to listen to a beautiful song from Guns n Roses?
+
 ### Skills
 
 Angular, RXJS, Angular Material, Flex Layout, Ionic Framework, TypeScript, TypeORM, TypeGraphQL, Express, Apollo Server, GraphQL, SQL, NoSQL, MQTT, SPA, PWA, TDD, MVVC, TailwindUI, AlpineJS, Linux Server System Management, maintenance, security. I developed web applications with many e-commerce and corporate management panels using Laravel Framework.
