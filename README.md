@@ -4,6 +4,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/umutyerebakmaz?style=for-the-badge)
 ![Twitter Follow](https://img.shields.io/twitter/follow/umutyerebakmaz?style=social)
 
+![Twitter Follow](https://img.shields.io/twitter/follow/umutyerebakmaz?logo=twitter&style=for-the-badge)
+
 
 ### Oops i did it again!
 
