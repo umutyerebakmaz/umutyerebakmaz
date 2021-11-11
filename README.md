@@ -2,6 +2,7 @@
 [![twitter](https://img.shields.io/twitter/follow/umutyerebakmaz?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/umutyerebakmaz)
 [![github](https://img.shields.io/github/followers/umutyerebakmaz?logo=github&style=plastic)](https://github.com/umutyerebakmaz?tab=followers)
 ![GitHub followers](https://img.shields.io/github/followers/umutyerebakmaz?style=for-the-badge)
+https://img.shields.io/twitter/follow/umutyerebakmaz?style=social
 
 ### Oops i did it again!
 
