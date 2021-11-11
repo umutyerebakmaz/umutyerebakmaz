@@ -1,6 +1,7 @@
 [![wakatime](https://wakatime.com/badge/user/1f3cc823-dd0b-4961-9c29-8693ec43c39c.svg)](https://wakatime.com/@1f3cc823-dd0b-4961-9c29-8693ec43c39c)
 [![twitter](https://img.shields.io/twitter/follow/umutyerebakmaz?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/umutyerebakmaz)
 [![github](https://img.shields.io/github/followers/umutyerebakmaz?logo=github&style=plastic)](https://github.com/umutyerebakmaz?tab=followers)
+![GitHub followers](https://img.shields.io/github/followers/umutyerebakmaz?style=for-the-badge)
 
 ### Oops i did it again!
 
