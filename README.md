@@ -53,7 +53,7 @@ contact: umutyerebakmaz@gmail.com
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=umutyerebakmaz&count_private=true&show_icons=true&include_all_commits)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umutyerebakmaz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=umutyerebakmaz)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
