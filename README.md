@@ -1,20 +1,10 @@
-[![Website](https://img.shields.io/website?label=umutyerebakmaz.com&style=for-the-badge&url=https://www.umutyerebakmaz.com)](https://www.umutyerebakmaz.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/umutyerebakmaz?color=blue&logo=twitter&style=for-the-badge)](https://www.twitter.com/umutyerebakmaz)
-
-![GitHub followers](https://img.shields.io/github/followers/umutyerebakmaz?logo=github&style=for-the-badge)
-![GitHub User's stars](https://img.shields.io/github/stars/umutyerebakmaz?logo=github&style=for-the-badge)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCPh3lBa9i8yXefvmnoO4gmQ?logo=youtube&style=for-the-badge)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCPh3lBa9i8yXefvmnoO4gmQ?logo=youtube&style=for-the-badge)
-
+[![Website](https://img.shields.io/website?label=umutyerebakmaz.com&style=plastic&url=https://www.umutyerebakmaz.com)](https://www.umutyerebakmaz.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/umutyerebakmaz?color=blue&logo=twitter&style=plastic)](https://www.twitter.com/umutyerebakmaz)
+![GitHub User's stars](https://img.shields.io/github/stars/umutyerebakmaz?logo=github&style=plastic)
+![GitHub followers](https://img.shields.io/github/followers/umutyerebakmaz?logo=github&style=plastic)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCPh3lBa9i8yXefvmnoO4gmQ?logo=youtube&style=plastic)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCPh3lBa9i8yXefvmnoO4gmQ?logo=youtube&style=plastic)
 [![wakatime](https://wakatime.com/badge/user/1f3cc823-dd0b-4961-9c29-8693ec43c39c.svg)](https://wakatime.com/@1f3cc823-dd0b-4961-9c29-8693ec43c39c)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=umutyerebakmaz&count_private=true&show_icons=true&include_all_commits=true)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=umutyerebakmaz)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
 
 ### Oops i did it again!
 
