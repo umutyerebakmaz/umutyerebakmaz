@@ -1,5 +1,5 @@
 [![Website](https://img.shields.io/website?label=umutyerebakmaz.com&style=for-the-badge&url=https://www.umutyerebakmaz.com)](https://www.umutyerebakmaz.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/umutyerebakmaz?color=blue&logo=twitter&style=for-the-badge)](https://www.umutyerebakmaz.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/umutyerebakmaz?color=blue&logo=twitter&style=for-the-badge)](https://www.twitter.com/umutyerebakmaz)
 
 ![GitHub followers](https://img.shields.io/github/followers/umutyerebakmaz?logo=github&style=for-the-badge)
 ![GitHub User's stars](https://img.shields.io/github/stars/umutyerebakmaz?logo=github&style=for-the-badge)
