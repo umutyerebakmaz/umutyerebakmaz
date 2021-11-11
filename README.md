@@ -52,7 +52,7 @@ You can reach my Linkedin profile here, ask me your questions on the topics inte
 contact: umutyerebakmaz@gmail.com
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=umutyerebakmaz&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=umutyerebakmaz&count_private=true&show_icons=true&include_all_commits)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umutyerebakmaz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
