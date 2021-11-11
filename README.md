@@ -19,7 +19,7 @@ Full Stack Developer, ABE Biyosidal, (1 year 6 month, continues, full-time) <br>
 Full Stack Developer, Kitaphub, (1 year 7 month, open-source)<br>
 Laravel Developer, Kopazar, (3 month, contractual)<br>
 Internet of Things Engineer, Votec Electronic, (7 month, contractual)<br>
-Server Administrator, Dora Media, (10 month) Company Owner, Yeşilonline Interactive (11year, continues)<br>
+Server Administrator, Dora Media, (10 month) Company Owner, Yeşilonline Interactive (11year, continues)<br>
 Sales Manager, YNS Advertising & Consultant Ltd. Şti. (3 month)<br>
 Director /  Resident DJ, Hayal Kahvesi, (2 year 4 month)<br>
 Art Director, Felix Technology, (7 month)<br>
