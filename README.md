@@ -55,8 +55,6 @@ contact: umutyerebakmaz@gmail.com
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=umutyerebakmaz&count_private=true&show_icons=true&include_all_commits=true)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=umutyerebakmaz)](https://github.com/anuraghazra/github-readme-stats)
 
-[![wakatime](https://wakatime.com/badge/user/1f3cc823-dd0b-4961-9c29-8693ec43c39c.svg)](https://wakatime.com/@1f3cc823-dd0b-4961-9c29-8693ec43c39c)
-
-[![wakatime](https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)
-[![twitter](https://img.shields.io/twitter/follow/wakatime?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/WakaTime)
-[![github](https://img.shields.io/github/followers/alanhamlett?logo=github&style=plastic)](https://github.com/alanhamlett?tab=followers)
+[![wakatime](https://wakatime.com/badge/umutyerebakmaz/1f3cc823-dd0b-4961-9c29-8693ec43c39c.svg)](https://wakatime.com/@1f3cc823-dd0b-4961-9c29-8693ec43c39c)
+[![twitter](https://img.shields.io/twitter/follow/umutyerebakmaz?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/umutyerebakmaz)
+[![github](https://img.shields.io/github/followers/umutyerebakmaz?logo=github&style=plastic)](https://github.com/umutyerebakmaz?tab=followers)
