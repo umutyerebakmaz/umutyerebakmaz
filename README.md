@@ -1,7 +1,19 @@
+[![Website](https://img.shields.io/website?label=umutyerebakmaz.com&style=for-the-badge&url=https://www.umutyerebakmaz.com)](https://www.umutyerebakmaz.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/umutyerebakmaz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2umutyerebakmaz&screen_name=umutyerebakmaz)
+
 ![GitHub followers](https://img.shields.io/github/followers/umutyerebakmaz?logo=github&style=for-the-badge)
 ![GitHub User's stars](https://img.shields.io/github/stars/umutyerebakmaz?logo=github&style=for-the-badge)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCPh3lBa9i8yXefvmnoO4gmQ?logo=youtube&style=for-the-badge)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCPh3lBa9i8yXefvmnoO4gmQ?logo=youtube&style=for-the-badge)
+
+[![wakatime](https://wakatime.com/badge/user/1f3cc823-dd0b-4961-9c29-8693ec43c39c.svg)](https://wakatime.com/@1f3cc823-dd0b-4961-9c29-8693ec43c39c)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=umutyerebakmaz&count_private=true&show_icons=true&include_all_commits=true)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=umutyerebakmaz)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 
 
 ### Oops i did it again!
@@ -56,9 +68,5 @@ You can reach my Linkedin profile here, ask me your questions on the topics inte
 [My Linkedin Profile](https://www.linkedin.com/in/umut-yerebakmaz-aa8315102/)
 
 contact: umutyerebakmaz@gmail.com
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=umutyerebakmaz&count_private=true&show_icons=true&include_all_commits=true)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=umutyerebakmaz)](https://github.com/anuraghazra/github-readme-stats)
 
 
