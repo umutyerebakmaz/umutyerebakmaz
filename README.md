@@ -10,9 +10,7 @@
 Hello I'm Umut Yerebakmaz
 
 _Sr. Frontend | Backend Developer | Angular | GraphQL | Reactive Programing Enthuaist_
-
-Angular, RXJS, Angular Material, Flex Layout, Ionic Framework, TypeScript, TypeORM, TypeGraphQL, Express, Apollo Server, GraphQL, SQL, NoSQL, MQTT, SPA, PWA, TDD, MVVC, TailwindUI, AlpineJS, Linux Server System Management, maintenance, security. I developed web applications with many e-commerce and corporate management panels using Laravel Framework.
-
+<br>
 
 ##### :art: Markups / Markdowns / CSS Preprocessors / UI Frameworks
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
@@ -40,7 +38,7 @@ Angular, RXJS, Angular Material, Flex Layout, Ionic Framework, TypeScript, TypeO
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
 <br>
 
-##### database Tools
+##### database
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />]()
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]()
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]()
@@ -52,7 +50,7 @@ Angular, RXJS, Angular Material, Flex Layout, Ionic Framework, TypeScript, TypeO
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
 <br>
 
-#### Operation Systems
+#### operation Systems
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/macos/macos.png" />]()
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/ios/ios.png" />]()
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/linux/linux.png" />]()
@@ -77,13 +75,13 @@ Angular, RXJS, Angular Material, Flex Layout, Ionic Framework, TypeScript, TypeO
 [Express]() <br>
 [Apache]() <br>
 
-### Oops i did it again! 
+#### Oops i did it again!
 
-I'm really sorry that I haven't been able to contribute to Open source until now in my professional life. A big shortcoming from my point of view. I hope to contribute a lot in a short time.
+_**I'm really sorry that I haven't been able to contribute to Open source until now in my professional life. A big shortcoming from my point of view. I hope to contribute a lot in a short time.
 
 We're getting started.
 
-November 2021, Would you like to listen to a beautiful song from Guns n Roses?
+November 2021, Would you like to listen to a beautiful song from Guns n Roses?**_
 
 
 #### My Experience
