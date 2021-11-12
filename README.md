@@ -35,7 +35,7 @@ _- Socrates_
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]()
 <br>
 
-##### Here they lay down and fuck those who do not write php as a team!
+##### Here they lay down and fuck those who do not write php as a team! 
 [<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />]()
 [<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />]()
 <br>
@@ -110,4 +110,6 @@ You can reach my Linkedin profile here, ask me your questions on the topics inte
 [Linkedin](https://www.linkedin.com/in/umut-yerebakmaz-aa8315102/) <br>
 contact: umutyerebakmaz@gmail.com
 
+
+[<figure><embed src="https://wakatime.com/share/@umutyerebakmaz/33231434-60cc-4420-9561-dde754cfd72d.svg"></embed></figure>]()
 
