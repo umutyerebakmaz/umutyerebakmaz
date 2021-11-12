@@ -7,7 +7,7 @@
 [![wakatime](https://wakatime.com/badge/user/1f3cc823-dd0b-4961-9c29-8693ec43c39c.svg)](https://wakatime.com/@1f3cc823-dd0b-4961-9c29-8693ec43c39c)
 
 
-:tr Hello I'm Umut Yerebakmaz
+Hello I'm Umut Yerebakmaz
 
 _Sr. Frontend | Backend Developer | Angular | GraphQL | Reactive Programing Enthuaist_
 
