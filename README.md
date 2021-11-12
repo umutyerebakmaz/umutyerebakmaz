@@ -110,6 +110,3 @@ You can reach my Linkedin profile here, ask me your questions on the topics inte
 [Linkedin](https://www.linkedin.com/in/umut-yerebakmaz-aa8315102/) <br>
 contact: umutyerebakmaz@gmail.com
 
-
-[<figure><embed src="https://wakatime.com/share/@umutyerebakmaz/33231434-60cc-4420-9561-dde754cfd72d.svg"></embed></figure>]()
-
