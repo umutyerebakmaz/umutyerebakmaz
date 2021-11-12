@@ -6,6 +6,7 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCPh3lBa9i8yXefvmnoO4gmQ?logo=youtube&style=plastic)](https://youtube.com/umutyerebakmaz)
 [![wakatime](https://wakatime.com/badge/user/1f3cc823-dd0b-4961-9c29-8693ec43c39c.svg)](https://wakatime.com/@1f3cc823-dd0b-4961-9c29-8693ec43c39c)
 
+[![Umut Yerebakmaz's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=umutyerebakmaz&layout=compact)]()
 
 ### :wave: Hello, I'm Umut, it means Hope.
 
