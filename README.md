@@ -10,11 +10,11 @@
 ##### Umut Yerebakmaz
 _Sr. Frontend | Backend Developer | Angular | GraphQL | Reactive Programing Enthuaist_
 
-**I'm really sorry that I haven't been able to contribute to Open source until now in my professional life. A big shortcoming from my point of view. I hope to contribute a lot in a short time.
-
-We're getting started.
-
-November 2021, Would you like to listen to a beautiful song from Guns n Roses?**
+**I'm really sorry that I haven't been able to contribute to Open source until now in my professional life. A big shortcoming from my point of view. I hope to contribute a lot in a short time.**
+<br>
+**We're getting started.**
+<br>
+**November 2021, Would you like to listen to a beautiful song from Guns n Roses?**
 <br>
 
 ##### :art: Markups / Markdowns / CSS Preprocessors / UI Frameworks
