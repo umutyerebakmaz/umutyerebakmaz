@@ -10,12 +10,12 @@
 ##### Umut Yerebakmaz
 _Sr. Frontend | Backend Developer | Angular | GraphQL | Reactive Programing Enthuaist_
 
-**I'm really sorry that I haven't been able to contribute to Open source until now in my professional life. A big shortcoming from my point of view. I hope to contribute a lot in a short time.**
-<br>
-**We're getting started.**
-<br>
-**November 2021, Would you like to listen to a beautiful song from Guns n Roses?**
-<br>
+**I'm really sorry that I haven't been able to contribute to Open source until now in my professional life. My life has been spent working in corporate. PR on social media doesn't make a good software developer, but it's an easy way to sell yourself.**
+
+**"If you think education is expensive, calculate the cost of ignorance."**
+
+_- Socrates_
+
 
 ##### :art: Markups / Markdowns / CSS Preprocessors / UI Frameworks
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
