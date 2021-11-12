@@ -89,19 +89,7 @@ Sales Manager, YNS Advertising & Consultant Ltd. Şti. (3 month)<br>
 Director /  Resident DJ, Hayal Kahvesi, (2 year 4 month)<br>
 Art Director, Felix Technology, (7 month)<br>
 
-##### Achievements
-Laravel - Ecommerce applications for Pharmaceutical Companies <br>
-Angular - GIS Based ERP,  Typescript, GraphQL <br>
-Angular - Kitaphub -The book social network I am developing inspired by goodreads.com and 1000kitap.com applications. <br>
-ESP8266 Embedded Lua - ARM64, ESP8266, C++, Embedded Systems <br>
-Laravel - All the tools smart businesses need to create and manage beautiful digital signage. <br>
-Laravel & AngularJS - Z-Wave Smart Home Interface and Administration Application <br>
-Laravel & AngularJS - Real Estate Office Portfolio Management System <br>
-Laravel - Mersin photography association online competition and reward system <br>
-
-#### Some projects I've completed, check out these live links. Actually, there is more.
-<br>
-
+##### Portfolio
 [IPM Geographic Inforation System](https://www.ipmgis.com/) - Angular, Material Design, Apollo, GraphQL, PostgresSQL <br>
 [Kitaphub social network for book readers](https://www.kitaphub.com) - Angular, Apollo, GraphQL <br>
 [ABE Biocidal](https://www.abebiyosidal.com.tr/) - Laravel Custom CMS, Bootsrap, MySQL <br>
@@ -114,9 +102,8 @@ Laravel - Mersin photography association online competition and reward system <b
 [Jet Marin Bodrum](https://www.jetmarin.com) - Laravel <br>
 [Yeşilonline Interactive](https://www.yesilonline.com/) - Wordpress <br>
 
-I am currently developing a large-scale, real-time process tracking application for Contractor. Developing the frontend using Angular and the API side using GraphQL.
-
-You can reach my Linkedin profile here, ask me your questions on the topics interested in through the contact information I share.
+_I am currently developing a large-scale, real-time process tracking application for Contractor. Developing the frontend using Angular and the API side using GraphQL.
+You can reach my Linkedin profile here, ask me your questions on the topics interested in through the contact information I share._
 <br>
 
 [Linkedin](https://www.linkedin.com/in/umut-yerebakmaz-aa8315102/) <br>
