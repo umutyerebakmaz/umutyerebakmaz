@@ -9,7 +9,7 @@
 <br>
 [![Umut Yerebakmaz's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=umutyerebakmaz&layout=compact&style=plastic)]()
 
-### :wave: Hello, I'm Umut, it means Hope.
+### :wave: Hello, I'm Umut Yerebakmaz.
 
 _Software Engineer | Full Stack TS Developer | Angular | UI/UX | GraphQL | SQL_
 
@@ -80,6 +80,7 @@ _- Socrates_
 [Apache]() <br>
 
 ##### My Experiences
+Senior Frontend Developer, KolayIK, (5 month, full-time) <br>
 Full Stack Developer, ABE Biyosidal, (1 year 6 month, continues, full-time) <br>
 Full Stack Developer, Kitaphub, (1 year 7 month, open-source)<br>
 Laravel Developer, Kopazar, (3 month, contractual)<br>
