@@ -9,83 +9,19 @@
 <br>
 [![Umut Yerebakmaz's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=umutyerebakmaz&layout=compact&style=plastic)]()
 
-### :wave: Hello, my name is Umut Yerebakmaz, I am an organism that breathes and has feelings.
+### Umut Yerebakmaz.
 
 _Software Engineer | Full Stack TS Developer | Angular | UI/UX | GraphQL | SQL_
 
-**"If you think education is expensive, calculate the cost of ignorance."**
-
-_- Socrates_
-
-
-##### :art: Markups / Markdowns / CSS Preprocessors / UI Frameworks
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]()
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/less/less.png" />]()
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />]()
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />]()
-<br>
-
-##### I :heart: Angular Architecture
-[<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />]()
-[<img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />]()
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]()
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />]()
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]()
-<br>
-
-[<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />]()
-[<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />]()
-<br>
-
-##### Editors | IDE'S
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
-<br>
-
-##### Databases
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />]()
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]()
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]()
-<br>
-
-##### Essentials
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com)
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://en.wikipedia.org/wiki/Terminal_(macOS))
-<br>
-
-##### Operation Systems
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/macos/macos.png" />](https://en.wikipedia.org/wiki/MacOS)
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/ios/ios.png" />](https://en.wikipedia.org/wiki/IOS)
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/linux/linux.png" />](https://en.wikipedia.org/wiki/Linux)
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/ubuntu/ubuntu.png" />](https://en.wikipedia.org/wiki/Ubuntu)
-<br>
-<br>
-
-`_my banned list!_`
-<br>
-
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/windows/windows.png" />]()
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/android/android.png" />]()
-<br>
-
-##### Design Tools
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/sketch/sketch.png" />]()
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/zeplin/zeplin.png" />]()
-<br>
-
-##### HTTP Servers
-[Nginx]() <br>
-[Express]() <br>
-[Apache]() <br>
-
-##### My Experiences
+##### Experience
+Software Architect, ABE Biyosidal, (1 month, continues, full-time) <br>
+Open-source Developer & Maintainer, @ngx-bio-components <br>
 Senior Frontend Developer, KolayIK, (5 month, full-time) <br>
-Full Stack Developer, ABE Biyosidal, (1 year 6 month, continues, full-time) <br>
+Full Stack Developer, ABE Biyosidal, (1 year 6 month, full-time) <br>
 Full Stack Developer, Kitaphub, (1 year 7 month, open-source)<br>
 Laravel Developer, Kopazar, (3 month, contractual)<br>
 Internet of Things Engineer, Votec Electronic, (7 month, contractual)<br>
-Server Administrator, Dora Media, (10 month) Company Owner, Yeşilonline Interactive (11year, continues)<br>
+Server Administrator, Dora Media, (10 month) Company Owner, Yeşilonline Interactive (11year)<br>
 Sales Manager, YNS Advertising & Consultant Ltd. Şti. (3 month)<br>
 Director /  Resident DJ, Hayal Kahvesi, (2 year 4 month)<br>
 Art Director, Felix Technology, (7 month)<br>
