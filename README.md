@@ -11,9 +11,7 @@
 
 ### :wave: Hello, I'm Umut, it means Hope.
 
-_Sr. Frontend | Backend Developer | Angular | GraphQL | Reactive Programing Enthuaist_
-
-**I'm really sorry that I haven't been able to contribute to Open source until now in my professional life. My life has been spent working in corporate. PR on social media doesn't make a good software developer, but it's an easy way to sell yourself.**
+_Software Engineer | Full Stack TS Developer | Angular | UI/UX | GraphQL | SQL_
 
 **"If you think education is expensive, calculate the cost of ignorance."**
 
