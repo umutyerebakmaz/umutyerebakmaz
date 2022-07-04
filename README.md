@@ -11,7 +11,7 @@
 
 ### Umut Yerebakmaz.
 
-_Software Engineer | Full Stack TS Developer | Angular | UI/UX | GraphQL | SQL_
+_Senior Software Developer_
 
 ##### Experience
 Software Architect, ABE Biyosidal, (1 month, continues, full-time) <br>
