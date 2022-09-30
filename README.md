@@ -15,6 +15,6 @@ Computer Scientist (2004 - current)<br>
 Open-source Software Developer | Angular | TypeScript | TypeORM | GraphQL
 
 ### Contact
-[Linkedin](https://www.linkedin.com/in/umut-yerebakmaz-aa8315102/) <br>
-mail me: umutyerebakmaz@gmail.com<br>
-call with discord: umutyerebakmaz#1527
+[Linkedin Profile](https://www.linkedin.com/in/umut-yerebakmaz-aa8315102/) <br>
+mail: umutyerebakmaz@gmail.com<br>
+discord: umutyerebakmaz#1527
