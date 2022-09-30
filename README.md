@@ -9,9 +9,9 @@
 <br>
 [![Umut Yerebakmaz's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=umutyerebakmaz&layout=compact&style=plastic)]()
 
-### Umut Yerebakmaz (2004 - Current).
+### Umut Yerebakmaz
 
-_Computer Scientist_<br>
+_Computer Scientist (2004 - current)_<br>
 _Open-source Software Developer | Angular | TypeScript | TypeORM | GraphQL_
 
 [Linkedin](https://www.linkedin.com/in/umut-yerebakmaz-aa8315102/) <br>
