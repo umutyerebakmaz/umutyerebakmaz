@@ -11,7 +11,8 @@
 
 ### Umut Yerebakmaz.
 
-_Senior Software Developer_
+_Computer Scientist_<br>
+_Open-source Software Developer | Angular | TypeScript | TypeORM | GraphQL_
 
 ##### Experience
 Software Architect, ABE Biyosidal, (1 month, continues, full-time) <br>
