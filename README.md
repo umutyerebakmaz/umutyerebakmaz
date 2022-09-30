@@ -11,8 +11,8 @@
 
 ### Umut Yerebakmaz
 
-_Computer Scientist (2004 - current)_<br>
-_Open-source Software Developer | Angular | TypeScript | TypeORM | GraphQL_
+Computer Scientist (2004 - current)<br>
+Open-source Software Developer | Angular | TypeScript | TypeORM | GraphQL
 
 [Linkedin](https://www.linkedin.com/in/umut-yerebakmaz-aa8315102/) <br>
 contact: umutyerebakmaz@gmail.com<br>
