@@ -11,8 +11,8 @@
 
 ### Umut Yerebakmaz
 
-Computer Scientist (2004 - current)<br>
-Open-source Software Developer | Angular | TypeScript | TypeORM | GraphQL
+Computer Scientist (2004 - current)<br> METU
+Open-source Software Developer | Angular | GraphQL | UI Components
 
 ### Contact
 [Linkedin Profile](https://www.linkedin.com/in/umut-yerebakmaz-aa8315102/) <br>
