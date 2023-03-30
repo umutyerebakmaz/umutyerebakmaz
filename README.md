@@ -11,7 +11,7 @@
 
 ### Umut Yerebakmaz
 
-Computer Scientist (2004 - current) METU<br>
+Software Architect<br>
 Open-source Software Developer | Angular | GraphQL | UI Components
 
 ### Contact
