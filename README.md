@@ -16,5 +16,4 @@ Open-source Software Developer | Angular | GraphQL | UI Components
 
 ### Contact
 [Linkedin Profile](https://www.linkedin.com/in/umut-yerebakmaz-aa8315102/) <br>
-mail: umutyerebakmaz@gmail.com<br>
-discord: umutyerebakmaz#1527
+discord: General XAN#0001
