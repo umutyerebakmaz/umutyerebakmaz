@@ -11,7 +11,7 @@
 
 ### Umut Yerebakmaz
 
-Veteran Developer<br>
+Software Architect<br>
 Open-source Software Developer | Angular | GraphQL | UI Components
 
 ### Contact
