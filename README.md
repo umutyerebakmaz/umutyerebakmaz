@@ -16,4 +16,4 @@ Open-source Software Developer | Angular | GraphQL | UI Components
 
 ### Contact
 [Linkedin Profile](https://www.linkedin.com/in/umut-yerebakmaz-aa8315102/) <br>
-discord: General XAN#0001
+discord: generalxan
