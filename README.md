@@ -11,7 +11,7 @@
 
 ### Umut Yerebakmaz
 
-Software Architect | Engineer | Full Stack Developer<br>
+Software Architect | Engineer<br>
 Open-source Software Developer | Angular | GraphQL | UI Components
 
 ### Contact
