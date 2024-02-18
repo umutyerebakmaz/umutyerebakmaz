@@ -11,8 +11,9 @@
 
 ### Umut Yerebakmaz
 
-Software Architect | Engineer<br>
-Open-source Software Developer | Angular | GraphQL | UI Components
+Software Architect | Design, Development, Diagramming and Modeling, Architectural Patterns, Network and Communication Protocols <br>
+Open-source Software Developer | Angular | GraphQL | UI Components <br>
+I started coding in 1990. While
 
 ### Contact
 [Linkedin Profile](https://www.linkedin.com/in/umut-yerebakmaz-aa8315102/) <br>
