@@ -1,5 +1,3 @@
-![WakaTime Public Stats](https://wakatime.com/share/@umutyerebakmaz/72f1503d-11d0-4ef9-a9a6-1902ce2cba56.svg)
-<br>
 [![Website](https://img.shields.io/website?label=umutyerebakmaz.com&style=plastic&url=https://www.umutyerebakmaz.com)](https://www.umutyerebakmaz.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/umutyerebakmaz?color=blue&logo=twitter&style=plastic)](https://www.twitter.com/umutyerebakmaz)
 [![GitHub User's stars](https://img.shields.io/github/stars/umutyerebakmaz?logo=github&style=plastic)](https://www.github/umutyerebakmaz)
