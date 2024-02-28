@@ -9,6 +9,7 @@
 [![wakatime](https://wakatime.com/badge/user/1f3cc823-dd0b-4961-9c29-8693ec43c39c.svg)](https://wakatime.com/@1f3cc823-dd0b-4961-9c29-8693ec43c39c)
 [![Profile View](https://komarev.com/ghpvc/?username=umutyerebakmaz&color=blue)](https://umutyerebakmaz.com)
 
+![WakaTime Public Stats](https://wakatime.com/share/@umutyerebakmaz/2620f1c3-ba2e-45c2-836e-5b66eb6ecbf3.svg)
 ### Umut Yerebakmaz
 
 Software Architect | Design, Development, Diagramming and Modeling, Architectural Patterns, Network and Communication Protocols <br>
