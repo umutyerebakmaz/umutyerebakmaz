@@ -9,6 +9,12 @@
 <br>
 [![Umut Yerebakmaz's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=umutyerebakmaz&layout=compact&style=plastic)]()
 
+
+
+https://wakatime.com/share/@umutyerebakmaz/33231434-60cc-4420-9561-dde754cfd72d.svg
+
+![Alt text](https://wakatime.com/share/@umutyerebakmaz/33231434-60cc-4420-9561-dde754cfd72d.svg)
+
 ### Umut Yerebakmaz
 
 Software Architect | Design, Development, Diagramming and Modeling, Architectural Patterns, Network and Communication Protocols <br>
