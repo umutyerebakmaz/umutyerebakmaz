@@ -1,4 +1,4 @@
-![WakaTime Public Stats](https://wakatime.com/share/@umutyerebakmaz/33231434-60cc-4420-9561-dde754cfd72d.svg)
+![WakaTime Public Stats](https://wakatime.com/share/@umutyerebakmaz/72f1503d-11d0-4ef9-a9a6-1902ce2cba56.svg)
 <br>
 [![Website](https://img.shields.io/website?label=umutyerebakmaz.com&style=plastic&url=https://www.umutyerebakmaz.com)](https://www.umutyerebakmaz.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/umutyerebakmaz?color=blue&logo=twitter&style=plastic)](https://www.twitter.com/umutyerebakmaz)
@@ -9,7 +9,6 @@
 [![wakatime](https://wakatime.com/badge/user/1f3cc823-dd0b-4961-9c29-8693ec43c39c.svg)](https://wakatime.com/@1f3cc823-dd0b-4961-9c29-8693ec43c39c)
 [![Profile View](https://komarev.com/ghpvc/?username=umutyerebakmaz&color=blue)](https://umutyerebakmaz.com)
 
-![WakaTime Public Stats](https://wakatime.com/share/@umutyerebakmaz/2620f1c3-ba2e-45c2-836e-5b66eb6ecbf3.svg)
 ### Umut Yerebakmaz
 
 Software Architect | Design, Development, Diagramming and Modeling, Architectural Patterns, Network and Communication Protocols <br>
