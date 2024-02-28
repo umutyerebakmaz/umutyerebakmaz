@@ -1,4 +1,4 @@
-![WakaTime Public Stats](https://wakatime.com/share/@umutyerebakmaz/33231434-60cc-4420-9561-dde754cfd72d.svg)(https://wakatime.com/share/@umutyerebakmaz/33231434-60cc-4420-9561-dde754cfd72d.svg)
+![WakaTime Public Stats](https://wakatime.com/share/@umutyerebakmaz/33231434-60cc-4420-9561-dde754cfd72d.svg)
 <br>
 [![Website](https://img.shields.io/website?label=umutyerebakmaz.com&style=plastic&url=https://www.umutyerebakmaz.com)](https://www.umutyerebakmaz.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/umutyerebakmaz?color=blue&logo=twitter&style=plastic)](https://www.twitter.com/umutyerebakmaz)
