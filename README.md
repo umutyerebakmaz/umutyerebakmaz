@@ -7,13 +7,8 @@
 [![wakatime](https://wakatime.com/badge/user/1f3cc823-dd0b-4961-9c29-8693ec43c39c.svg)](https://wakatime.com/@1f3cc823-dd0b-4961-9c29-8693ec43c39c)
 [![Profile View](https://komarev.com/ghpvc/?username=umutyerebakmaz&color=blue)](https://umutyerebakmaz.com)
 <br>
-[![Umut Yerebakmaz's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=umutyerebakmaz&layout=compact&style=plastic)]()
 
-
-
-https://wakatime.com/share/@umutyerebakmaz/33231434-60cc-4420-9561-dde754cfd72d.svg
-
-![Alt text](https://wakatime.com/share/@umutyerebakmaz/33231434-60cc-4420-9561-dde754cfd72d.svg)
+![WakaTime Public Stats](https://wakatime.com/share/@umutyerebakmaz/33231434-60cc-4420-9561-dde754cfd72d.svg)
 
 ### Umut Yerebakmaz
 
