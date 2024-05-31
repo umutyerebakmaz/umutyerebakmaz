@@ -1,3 +1,4 @@
+<a href="https://app.daily.dev/umutyerebakmaz"><img src="https://api.daily.dev/devcards/v2/ZOrSZwvQeNGOEfYvHvv82.png?type=wide&r=erf" width="652" alt="Umut Yerebakmaz's Dev Card"/></a>
 ### Umut Yerebakmaz
 
 Software Architect | Engineer <br>
@@ -13,3 +14,5 @@ Angular GraphQL TypeScript NodeJS PostgreSQL
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCPh3lBa9i8yXefvmnoO4gmQ?logo=youtube&style=plastic)](https://youtube.com/umutyerebakmaz)
 [![wakatime](https://wakatime.com/badge/user/1f3cc823-dd0b-4961-9c29-8693ec43c39c.svg)](https://wakatime.com/@1f3cc823-dd0b-4961-9c29-8693ec43c39c)
 [![Profile View](https://komarev.com/ghpvc/?username=umutyerebakmaz&color=blue)](https://umutyerebakmaz.com)
+
+
