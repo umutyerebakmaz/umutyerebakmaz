@@ -1,4 +1,3 @@
-<a href="https://app.daily.dev/umutyerebakmaz"><img src="https://api.daily.dev/devcards/v2/ZOrSZwvQeNGOEfYvHvv82.png?type=wide&r=erf" width="652" alt="Umut Yerebakmaz's Dev Card"/></a>
 ### Umut Yerebakmaz
 
 Software Architect | Engineer <br>
