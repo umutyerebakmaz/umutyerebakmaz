@@ -1,6 +1,6 @@
 ### Umut Yerebakmaz
 
-Software Architect | Engineer <br>
+Software Architect | Computer Engineer <br>
 Angular GraphQL TypeScript NodeJS PostgreSQL
 
 ### Contact
