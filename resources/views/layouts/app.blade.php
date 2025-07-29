@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html class="h-full" lang="{{ str_replace('_', '-', app()->getLocale()) }}">
+
 <head>
     <title>
         @isset($meta)
@@ -25,14 +26,16 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap">
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 </head>
-<body class="h-full min-h-screen">
+
+<body class="body">
     <x-banners.banner></x-banners.banner>
     <x-navigation.navigation></x-navigation.navigation>
-    <div id="content" class="flex flex-col min-h-screen-calc">
+    <div class="content">
         @yield('content')
     </div>
     <x-footer></x-footer>
     <x-notifications.simple />
     <x-banners.cookie-banner></x-banners.cookie-banner>
 </body>
+
 </html>

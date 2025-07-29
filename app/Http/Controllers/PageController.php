@@ -13,4 +13,11 @@ class PageController extends Controller
         $meta->title = 'Home';
         return view('pages.home', compact('meta'));
     }
+
+    public function about(): View
+    {
+        $meta = new Meta;
+        $meta->title = 'About';
+        return view('pages.about', compact('meta'));
+    }
 }

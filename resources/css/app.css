@@ -16,6 +16,15 @@ button {
     cursor: pointer;
 }
 
+.body {
+    @apply h-full min-h-screen;
+}
+
+.content {
+    min-height: calc(100vh - 64px - 504px);
+    @apply flex flex-col;
+}
+
 .flyout-menu {
     z-index: 20;
 }

@@ -4,7 +4,10 @@
     "type": "module",
     "scripts": {
         "build": "vite build",
-        "dev": "vite"
+        "dev": "vite",
+        "kill": "kill -9 $(lsof -t -i:8000)",
+        "remove:all": "rm -rf node_modules yarn.lock package-lock.json",
+        "remove:vendor": "rm -rf vendor && rm composer.lock"
     },
     "devDependencies": {
         "@tailwindcss/vite": "^4.0.0",
