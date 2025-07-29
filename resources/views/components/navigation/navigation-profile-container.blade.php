@@ -7,12 +7,12 @@
                     Giriş Yap
                 </span>
             </x-slot>
-            <x-dropdowns.flyout-link :href="'#'">
+            <x-dropdowns.flyout-link :href="route('login')">
                 <p class="text-base font-light text-gray-900">
                     Giriş Yap
                 </p>
             </x-dropdowns.flyout-link>
-            <x-dropdowns.flyout-link :href="'#'">
+            <x-dropdowns.flyout-link :href="route('register')">
                 <p class="text-base font-light text-gray-900">
                     Hesap Oluştur
                 </p>

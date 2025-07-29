@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\Auth\RegisterController;
 use App\Http\Controllers\PageController;
 use App\Http\Controllers\BlogController;
 /*
@@ -26,6 +27,9 @@ Route::group(['middleware' => ['auth', 'administration']], static function () {
 | Ziyaretçiler tarafından erişilebilir.
 */
 Route::group([], static function ($router) {
+
+    $router->get('register', [RegisterController::class, 'register'])->name('register');
+    $router->post('register', [RegisterController::class, 'store'])->name('register.store');
 
     $router->get('/', [PageController::class, 'home'])->name('home');
 
