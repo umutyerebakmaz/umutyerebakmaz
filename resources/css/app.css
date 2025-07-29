@@ -1,5 +1,6 @@
 @import "tailwindcss";
 @import "./badges.css";
+@import "./inputs.css";
 
 @source '../../vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php';
 @source '../../storage/framework/views/*.php';
@@ -29,30 +30,10 @@ button {
     z-index: 20;
 }
 
-.min-h-screen-calc {
-    min-height: calc(100vh - 64px - 504px);
-}
-
 .datatable {
     @apply shadow-sm ring-1 ring-black/5 sm:rounded-lg;
 }
 
 .edit-container {
     @apply p-4 overflow-hidden border border-gray-200 sm:rounded-lg bg-white;
-}
-
-.text-input {
-    @apply min-w-0 max-h-10 grow block w-full text-base sm:text-sm/6 text-gray-900 px-3 py-2 placeholder:text-gray-400 border border-gray-300 rounded-md appearance-none focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 transition-colors duration-300 ease-in-out bg-white;
-}
-
-.text-area {
-    @apply min-w-0 grow block w-full text-base sm:text-sm/6 text-gray-900 px-3 py-2 placeholder:text-gray-400 border border-gray-300 rounded-md appearance-none focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 transition-colors duration-300 ease-in-out bg-white;
-}
-
-.input-radio {
-    @apply relative appearance-none rounded-full border border-gray-300 bg-white before:absolute before:inset-1 before:rounded-full before:bg-white not-checked:before:hidden checked:border-indigo-600 checked:bg-indigo-600 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600 disabled:border-gray-300 disabled:bg-gray-100 disabled:before:bg-gray-400 forced-colors:appearance-auto forced-colors:before:hidden cursor-pointer size-4;
-}
-
-.search-input {
-    @apply block w-full col-start-1 row-start-1 py-3 pl-10 pr-3 text-lg font-bold text-indigo-700 transition-all duration-300 ease-in-out bg-white rounded-md outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600 sm:pl-9 sm:text-sm/6;
 }

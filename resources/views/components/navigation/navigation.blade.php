@@ -37,10 +37,17 @@
                     class="{{ request()->routeIs('home') ? 'text-sm hover:text-gray-900 text-gray900 px-3 py-2 flex rounded-md  transition ease-in-out duration-150 bg-indigo-100' : 'text-sm hover:text-gray-900 text-gray-900 px-3 py-2 flex rounded-md hover:bg-indigo-50 transition ease-in-out duration-150' }}">
                     {{ __('portfolio') }}
                 </a>
+
+                <a href="{{ route('home') }}"
+                    class="{{ request()->routeIs('home') ? 'text-sm hover:text-gray-900 text-gray900 px-3 py-2 flex rounded-md  transition ease-in-out duration-150 bg-indigo-100' : 'text-sm hover:text-gray-900 text-gray-900 px-3 py-2 flex rounded-md hover:bg-indigo-50 transition ease-in-out duration-150' }}">
+                    {{ __('services') }}
+                </a>
+
                 <a href="{{ route('home') }}"
                     class="{{ request()->routeIs('home') ? 'text-sm hover:text-gray-900 text-gray900 px-3 py-2 flex rounded-md  transition ease-in-out duration-150 bg-indigo-100' : 'text-sm hover:text-gray-900 text-gray-900 px-3 py-2 flex rounded-md hover:bg-indigo-50 transition ease-in-out duration-150' }}">
                     {{ __('scripts') }}
                 </a>
+
                 <a href="{{ route('home') }}"
                     class="{{ request()->routeIs('home') ? 'text-sm hover:text-gray-900 text-gray900 px-3 py-2 flex rounded-md  transition ease-in-out duration-150 bg-indigo-100' : 'text-sm hover:text-gray-900 text-gray-900 px-3 py-2 flex rounded-md hover:bg-indigo-50 transition ease-in-out duration-150' }}">
                     {{ __('blogs') }}
