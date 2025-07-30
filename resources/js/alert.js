@@ -1,16 +1,15 @@
+// alerts.js
 document.addEventListener('DOMContentLoaded', function () {
-    const container = document.getElementById('attention-container');
-    const button = document.getElementById('dismiss-attention-button');
+    document.querySelectorAll('.alert-container').forEach(container => {
+        const button = container.querySelector('.alert-close');
+        if (!button) return;
 
-    if (button && container) {
         button.addEventListener('click', function () {
-            // yükseklik ve opaklık için geçiş efektleri
             container.style.transition = 'opacity 0.3s ease, height 0.3s ease, margin 0.3s ease, padding 0.3s ease';
             container.style.overflow = 'hidden';
 
-            // Şu anki yüksekliği manuel olarak ayarla, sonra sıfıra düşür
             const height = container.offsetHeight + 'px';
-            container.style.height = height; // başlangıç yüksekliğini sabitle
+            container.style.height = height;
             container.offsetHeight; // reflow tetikle
             container.style.opacity = '0';
             container.style.height = '0px';
@@ -23,5 +22,5 @@ document.addEventListener('DOMContentLoaded', function () {
                 container.style.display = 'none';
             }, 300);
         });
-    }
+    });
 });

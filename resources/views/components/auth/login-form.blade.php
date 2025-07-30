@@ -1,3 +1,4 @@
+<x-alerts.attention :></x-alerts.attention>
 <div class="flex flex-col justify-center min-h-full py-12 sm:px-6 lg:px-8">
 
     <div class="sm:mx-auto sm:w-full sm:max-w-md">

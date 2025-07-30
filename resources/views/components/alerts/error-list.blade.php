@@ -1,7 +1,7 @@
 @props(['errors'])
 
 @if ($errors->any())
-    <div {{ $attributes }} id="error-list-container">
+    <div {{ $attributes }} class="alert-container">
         <div class="flex items-center justify-between p-4 border border-red-200 rounded-md bg-red-50">
             <ul class="space-y-2">
                 @foreach ($errors->all() as $error)
@@ -15,7 +15,7 @@
             </ul>
 
             <div>
-                <x-buttons.circular-white-sm type="button" id="dismiss-error-list-button">
+                <x-buttons.circular-white-sm class="alert-close">
                     <span class="sr-only">Dismiss</span>
                     <x-icons.solid-x />
                 </x-buttons.circular-white-sm>

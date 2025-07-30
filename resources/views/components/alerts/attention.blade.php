@@ -1,7 +1,7 @@
 @props(['attention'])
 
 @if ($attention)
-    <div {{ $attributes }} id="attention-container">
+    <div {{ $attributes }} class="alert-container">
         <div class="flex items-center justify-between p-4 rounded-md bg-yellow-50">
 
             <div class="flex items-center justify-start">
@@ -12,7 +12,7 @@
             </div>
 
             <div>
-                <x-buttons.circular-white-sm id="dismiss-attention-button">
+                <x-buttons.circular-white-sm class="alert-close">
                     <span class="sr-only">Dismiss</span>
                     <x-icons.solid-x></x-icons.solid-x>
                 </x-buttons.circular-white-sm>

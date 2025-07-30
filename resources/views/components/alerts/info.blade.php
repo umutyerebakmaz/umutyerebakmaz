@@ -1,7 +1,7 @@
 @props(['info'])
 
 @if ($info)
-    <div {{ $attributes }} id="info-container">
+    <div {{ $attributes }} class="alert-container">
         <div class="flex items-center justify-between p-4 rounded-md bg-blue-50">
 
             <div class="flex items-center justify-start">
@@ -13,7 +13,7 @@
 
 
             <div>
-                <x-buttons.circular-white-sm type="button" id="dismiss-info-button">
+                <x-buttons.circular-white-sm class="alert-close">
                     <span class="sr-only">Dismiss</span>
                     <x-icons.solid-x></x-icons.solid-x>
                 </x-buttons.circular-white-sm>

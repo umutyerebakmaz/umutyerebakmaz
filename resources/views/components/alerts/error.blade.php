@@ -1,7 +1,7 @@
 @props(['error'])
 
 @if ($error)
-    <div {{ $attributes }} id="error-container">
+    <div {{ $attributes }} class="alert-container">
         <div class="flex items-center justify-between p-4 rounded-md bg-red-50">
             <div class="flex-1">
                 <div class="flex items-center">
@@ -17,7 +17,7 @@
                 @endif
             </div>
             <div>
-                <x-buttons.circular-white-sm type="button" id="dismiss-error-button">
+                <x-buttons.circular-white-sm class="alert-close">
                     <span class="sr-only">Dismiss</span>
                     <x-icons.solid-x></x-icons.solid-x>
                 </x-buttons.circular-white-sm>
