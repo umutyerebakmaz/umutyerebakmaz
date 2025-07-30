@@ -1,8 +1,7 @@
-<x-alerts.attention :></x-alerts.attention>
 <div class="flex flex-col justify-center min-h-full py-12 sm:px-6 lg:px-8">
 
     <div class="sm:mx-auto sm:w-full sm:max-w-md">
-        <a href="/">
+        <a href="{{ route('home') }}">
             <x-logos.application-logo class="w-auto h-20 mx-auto" alt="pestpoint logo"></x-logos.application-logo>
         </a>
         <h2 class="mt-6 text-3xl font-extrabold text-center text-gray-900">
@@ -12,10 +11,7 @@
 
     <div class="mt-8 sm:mx-auto sm:w-full sm:max-w-md">
         <div class="px-4 py-8 bg-white border border-gray-200 sm:rounded-lg sm:px-10">
-
-            <x-status class="mb-4" :status="session('status')"></x-status>
-            <x-alerts.validation class="mb-4" :errors="$errors"></x-alerts.validation>
-
+            <x-alerts.error-list class="mb-4" :errors="$errors"></x-alerts.error-list>
             <form class="space-y-6" action="{{ route('login') }}" method="POST">
                 @csrf
                 <div>

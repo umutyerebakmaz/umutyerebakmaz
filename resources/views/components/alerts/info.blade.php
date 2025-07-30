@@ -1,7 +1,7 @@
 @props(['info'])
 
 @if ($info)
-    <div {{ $attributes }} class="alert-container">
+    <div {{ $attributes->merge(['class' => 'alert-container']) }}>
         <div class="flex items-center justify-between p-4 rounded-md bg-blue-50">
 
             <div class="flex items-center justify-start">
