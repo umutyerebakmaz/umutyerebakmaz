@@ -4,6 +4,7 @@ namespace App\Http\Middleware;
 
 use Closure;
 use Illuminate\Http\Request;
+use Illuminate\View\View;
 
 class Administration
 {
@@ -14,7 +15,7 @@ class Administration
      * @param Closure $next
      * @return mixed
      */
-    public function handle($request, Closure $next)
+    public function handle(Request $request, Closure $next): View|Closure
     {
         if ($request->user() && $request->user()->role != 'admin') {
             return response(view('pages.errors.401')->with('role', 'ADMIN'));

@@ -1,5 +1,5 @@
-@extends('layouts.app')
+@extends('layouts.guest')
 
 @section('content')
-    login
+    <x-auth.login-form></x-auth.login-form>
 @endsection

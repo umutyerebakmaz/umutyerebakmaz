@@ -2,11 +2,15 @@
 
 namespace App\Http\Controllers\Auth;
 
+use App\Http\Requests\RegisterRequest;
 use App\Support\Meta;
+use Illuminate\Support\Facades\Auth;
+use Illuminate\Support\Facades\Hash;
 use Illuminate\View\View;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\RedirectResponse;
-
+use App\Models\User;
+use Illuminate\Http\Request;
 
 class RegisterController extends Controller
 {
@@ -16,10 +20,15 @@ class RegisterController extends Controller
         return view('auth.register', compact('meta'));
     }
 
-    public function store(): RedirectResponse
+    public function store(RegisterRequest $request): RedirectResponse
     {
-        return redirect()
-            ->to(url()->previous())
-            ->with('success', 'Register Completed!');
+        $user = User::create([
+            'name' => $request->input('name'),
+            'email' => $request->input('email'),
+            'password' => Hash::make($request->input('password')),
+        ]);
+
+        Auth::login($user);
+        return redirect()->route('home')->with('success', 'Register Completed!');
     }
 }

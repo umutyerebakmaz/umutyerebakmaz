@@ -1,0 +1,21 @@
+@props(['success'])
+@if ($success)
+    <div {{ $attributes }} id="success-container">
+        <div class="flex items-center justify-between p-4 rounded-md bg-green-50">
+
+            <div class="flex items-center justify-start">
+                <x-icons.solid-check-circle class="mr-4 text-green-400 size-6"></x-icons.solid-check-circle>
+                <p class="text-sm font-medium text-green-800">
+                    {{ $success }}
+                </p>
+            </div>
+
+            <div>
+                <x-buttons.circular-white-sm type="button" id="dismiss-success-button">
+                    <span class="sr-only">Dismiss</span>
+                    <x-icons.solid-x></x-icons.solid-x>
+                </x-buttons.circular-white-sm>
+            </div>
+        </div>
+    </div>
+@endif
