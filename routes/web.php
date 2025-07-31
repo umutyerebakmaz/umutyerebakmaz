@@ -50,6 +50,6 @@ Route::group([], static function ($router) {
 
 
 Route::middleware('auth')->group(function ($router) {
-    $router->post('/logout', [LoginController::class, 'logout'])->name('logout');
-    $router->get('/dashboard', fn() => view('dashboard'))->name('dashboard');
+    $router->post('logout', [LoginController::class, 'logout'])->name('logout');
+    $router->get('dashboard', fn() => view('dashboard'))->name('dashboard');
 });
