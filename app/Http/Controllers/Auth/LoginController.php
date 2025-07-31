@@ -21,12 +21,11 @@ class LoginController extends Controller
 
     public function authenticate(LoginRequest $request): RedirectResponse
     {
+
         if (Auth::attempt($request->validatedCredentials(), $request->boolean('remember'))) {
             $request->session()->regenerate();
             return redirect()->intended('dashboard');
         }
-
-        dd(auth()->id());
 
         return back()->withErrors([
             'email' => 'The provided credentials do not match our records.',

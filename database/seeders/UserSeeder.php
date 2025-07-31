@@ -5,6 +5,7 @@ namespace Database\Seeders;
 use App\Models\User;
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Str;
+use Illuminate\Support\Facades\Hash;
 
 class UserSeeder extends Seeder
 {
@@ -15,8 +16,8 @@ class UserSeeder extends Seeder
                 'role' => 'admin',
                 'first_name' => 'Umut',
                 'last_name' => 'Yerebakmaz',
-                'email' => 'umuryerebakmaz@gmail.com',
-                'password' => bcrypt('123456789'),
+                'email' => 'umutyerebakmaz@gmail.com',
+                'password' => '123456789',
                 'remember_token' => Str::random(10),
             ],
             [

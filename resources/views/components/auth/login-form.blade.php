@@ -20,12 +20,12 @@
                     </label>
                     <div class="mt-1">
                         <input
-                                id="email"
-                                class="text-input"
-                                name="email"
-                                type="email"
-                                autocomplete="email"
-                                value="{{ old('email', 'umutyerebakmaz@gmail.com') }}" required>
+                            id="email"
+                            class="text-input"
+                            name="email"
+                            type="email"
+                            autocomplete="email"
+                            value="umutyerebakmaz@gmail.com" required>
                     </div>
                 </div>
 
@@ -35,20 +35,20 @@
                     </label>
                     <div class="mt-1">
                         <input
-                                id="password"
-                                class="text-input"
-                                name="password"
-                                type="password"
-                                autocomplete="current-password"
-                                value="123456789"
-                                required>
+                            id="password"
+                            class="text-input"
+                            name="password"
+                            type="password"
+                            autocomplete="current-password"
+                            value="123456789"
+                            required>
                     </div>
                 </div>
 
                 <div class="flex items-center justify-between">
                     <div class="flex items-center">
-                        <x-inputs.checkbox id="remember_me" name="remember" :value="false"></x-inputs.checkbox>
-                        <label for="remember_me" class="block ml-2 text-sm text-gray-900">
+                        <x-inputs.checkbox id="remember" name="remember" :value="false"></x-inputs.checkbox>
+                        <label for="remember" class="block ml-2 text-sm text-gray-900">
                             Beni Hatırla
                         </label>
                     </div>
@@ -56,7 +56,7 @@
                     <div class="text-sm">
                         @if (Route::has('password.request'))
                             <a class="font-medium text-indigo-600 hover:text-indigo-500 hover:underline"
-                               href="{{ route('password.request') }}">
+                                href="{{ route('password.request') }}">
                                 {{ __('Şifremi unuttum') }}
                             </a>
                         @endif

@@ -28,7 +28,7 @@ Route::group(['middleware' => ['auth', 'administration']], static function () {
 | Giriş gerektirmeyen genel sayfalardır. (SEO + tanıtım)
 | Ziyaretçiler tarafından erişilebilir.
 */
-Route::group([], static function ($router) {
+Route::group(['middleware' => 'web'], static function ($router) {
 
     $router->get('/', [PageController::class, 'home'])->name('home');
 
