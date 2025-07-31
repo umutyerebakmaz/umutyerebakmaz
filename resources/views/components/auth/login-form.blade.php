@@ -25,7 +25,7 @@
                                 name="email"
                                 type="email"
                                 autocomplete="email"
-                                value="{{ old('email') }}" required>
+                                value="{{ old('email', 'umutyerebakmaz@gmail.com') }}" required>
                     </div>
                 </div>
 
@@ -40,6 +40,7 @@
                                 name="password"
                                 type="password"
                                 autocomplete="current-password"
+                                value="123456789"
                                 required>
                     </div>
                 </div>
