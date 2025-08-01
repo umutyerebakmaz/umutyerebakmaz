@@ -10,7 +10,7 @@ use App\Http\Controllers\DashboardController;
 
 Route::middleware('guest')->group(static function ($route) {
     $route->get('login', [LoginController::class, 'login'])->name('login');
-    $route->post('login', [LoginController::class, 'store'])->name('login.store');
+    $route->post('login', [LoginController::class, 'store'])->middleware('throttle:login')->name('login.store');
     $route->get('register', [RegisterController::class, 'register'])->name('register');
     $route->post('register', [RegisterController::class, 'store'])->name('register.store');
 });
