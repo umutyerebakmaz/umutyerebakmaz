@@ -12,7 +12,7 @@
     <div class="mt-8 sm:mx-auto sm:w-full sm:max-w-md">
         <div class="px-4 py-8 bg-white border border-gray-200 sm:rounded-lg sm:px-10">
             <x-alerts.error-list class="mb-4" :errors="$errors"></x-alerts.error-list>
-            <form class="space-y-6" action="{{ route('login') }}" method="POST">
+            <form class="space-y-6" action="{{ route('login.store') }}" method="POST">
                 @csrf
                 <div>
                     <label for="email" class="block text-sm font-medium text-gray-700">

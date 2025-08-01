@@ -19,12 +19,12 @@ class LoginController extends Controller
         return view('auth.login', compact('meta'));
     }
 
-    public function authenticate(LoginRequest $request): RedirectResponse
+    public function store(LoginRequest $request): RedirectResponse
     {
 
         if (Auth::attempt($request->validatedCredentials(), $request->boolean('remember'))) {
             $request->session()->regenerate();
-            return redirect()->intended('dashboard');
+            return redirect()->route('home');
         }
 
         return back()->withErrors([

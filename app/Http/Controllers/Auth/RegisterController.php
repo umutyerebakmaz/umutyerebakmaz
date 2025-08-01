@@ -10,7 +10,6 @@ use Illuminate\View\View;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\RedirectResponse;
 use App\Models\User;
-use Illuminate\Http\Request;
 
 class RegisterController extends Controller
 {

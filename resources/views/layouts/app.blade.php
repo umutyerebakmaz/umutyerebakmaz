@@ -31,6 +31,12 @@
     <x-banners.banner></x-banners.banner>
     <x-navigation.navigation></x-navigation.navigation>
     <div class="content">
+        @if (auth()->check())
+            {{ Auth::user() }}
+        @else
+            NO AUTH
+        @endif
+
         @yield('content')
     </div>
     <x-footer></x-footer>

@@ -1,11 +1,21 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\Auth\RegisterController;
 use App\Http\Controllers\PageController;
 use App\Http\Controllers\BlogController;
 use App\Http\Controllers\Auth\LoginController;
-use App\Http\Controllers\Auth\PasswordResetController;
+use App\Http\Controllers\Auth\RegisterController;
+use App\Http\Controllers\DashboardController;
+
+
+Route::middleware('guest')->group(static function ($route) {
+    $route->get('login', [LoginController::class, 'login'])->name('login');
+    $route->post('login', [LoginController::class, 'store'])->name('login.store');
+    $route->get('register', [RegisterController::class, 'register'])->name('register');
+    $route->post('register', [RegisterController::class, 'store'])->name('register.store');
+});
+
+
 /*
 |--------------------------------------------------------------------------
 | 🔐 Auth + 🛠️ Admin Panel Routes
@@ -16,40 +26,23 @@ use App\Http\Controllers\Auth\PasswordResetController;
 */
 Route::group(['middleware' => ['auth', 'administration']], static function () {
     Route::group(['as' => 'administration.', 'prefix' => 'administration'], static function ($router) {
-        // 📝 Bloglar
+        $router->get('dashboard', [DashboardController::class, 'dashboard'])->name('dashboard');
         $router->resource('blogs', BlogController::class)->except('show');
     });
 });
 
 /*
 |--------------------------------------------------------------------------
-| 🌐 Public Routes
+| 🌐 (web middleware) Public Routes
 |--------------------------------------------------------------------------
 | Giriş gerektirmeyen genel sayfalardır. (SEO + tanıtım)
 | Ziyaretçiler tarafından erişilebilir.
 */
-Route::group(['middleware' => 'web'], static function ($router) {
-
-    $router->get('/', [PageController::class, 'home'])->name('home');
-
-    // 📝 Blog
-    $router->get('yazilar', [BlogController::class, 'blogs'])->name('blogs');
-    $router->get('yazilar/{blog:slug}', [BlogController::class, 'show'])->name('blogs.show');
-
-    // auth routes
-    $router->get('login', [LoginController::class, 'login'])->name('login');
-    $router->post('login', [LoginController::class, 'authenticate'])->name('login.post');
-    $router->get('register', [RegisterController::class, 'register'])->name('register');
-    $router->post('register', [RegisterController::class, 'register'])->name('register.post');
-    $router->get('forgot-password', [PasswordResetController::class, 'request'])->name('password.request');
-    $router->post('forgot-password', [PasswordResetController::class, 'email'])->name('password.email');
-    $router->get('reset-password/{token}', [PasswordResetController::class, 'reset'])->name('password.reset');
-    $router->post('reset-password', [PasswordResetController::class, 'update'])->name('password.update');
-
-});
+Route::get('/', [PageController::class, 'home'])->name('home');
+Route::get('yazilar', [BlogController::class, 'blogs'])->name('blogs');
+Route::get('yazilar/{blog:slug}', [BlogController::class, 'show'])->name('blogs.show');
 
 
 Route::middleware('auth')->group(function ($router) {
     $router->post('logout', [LoginController::class, 'logout'])->name('logout');
-    $router->get('dashboard', fn() => view('dashboard'))->name('dashboard');
 });

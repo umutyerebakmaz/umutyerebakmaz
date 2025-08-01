@@ -36,10 +36,6 @@
                     </span>
                 </div>
             </x-slot>
-            <x-dropdowns.flyout-link :href="route('profile.account')" :active="request()->routeIs('profile.account')">
-                <p class="text-base font-light text-gray-900">Hesabım</p>
-            </x-dropdowns.flyout-link>
-
             <x-dropdowns.flyout-link :href="route('logout')" onclick="event.preventDefault(); document.getElementById('logout').submit();">
                 <p class="text-base font-light text-gray-900">Çıkış Yap</p>
             </x-dropdowns.flyout-link>
